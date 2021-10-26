@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E9D-5BFC
+
+ Directory of C:\Users\gaura\Desktop\MyProject
+
+26-10-2021  11:54    <DIR>          .
+26-10-2021  11:52    <DIR>          ..
+26-10-2021  11:54                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  91,430,338,560 bytes free
+
+Change 1
